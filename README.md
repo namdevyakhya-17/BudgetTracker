@@ -7,7 +7,7 @@ It allows users to track **income, expenditure, and savings** with a clear month
 ---
 
 ## 🚀 Features
-- **Income Tracking** → Log and categorize multiple income sources with date and amount.  
+- **Income Tracking** → Log and categorize multiple income sources with date and amount, can be ad manually in real-time.  
 - **Expenditure Tracking** → Record expenses with proper date format, category, and amount.  
 - **Savings Calculation** → Automatically calculates savings by subtracting expenses from income.  
 - **Monthly Dashboard** → Interactive summary with charts & tables to visualize monthly budget performance.  
@@ -29,7 +29,14 @@ It allows users to track **income, expenditure, and savings** with a clear month
 ---
 
 ## 📸 Screenshots
-(Add your Excel screenshots here for better presentation)  
+<img width="1819" height="675" alt="image" src="https://github.com/user-attachments/assets/a6e12ad5-e355-4240-8c7a-572d8d1983e7" />
+
+<img width="1763" height="692" alt="image" src="https://github.com/user-attachments/assets/6b46d989-1b8b-48cd-bbac-52350eb0d5e3" />
+
+<img width="1849" height="748" alt="image" src="https://github.com/user-attachments/assets/c76036b1-9c92-4855-bc1f-086f4a8d278d" />
+
+<img width="1860" height="697" alt="image" src="https://github.com/user-attachments/assets/4db61cec-498e-4907-9472-577518bbff33" />
+ 
 
 ---
 
